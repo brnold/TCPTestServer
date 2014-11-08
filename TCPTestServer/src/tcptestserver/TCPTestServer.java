@@ -19,6 +19,8 @@ public class TCPTestServer {
         
         System.out.println("Hello world!");
         
+        System.out.println("push me");
+        
     }
     
 }
